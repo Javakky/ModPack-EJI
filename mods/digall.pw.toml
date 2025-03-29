@@ -1,0 +1,13 @@
+name = "IkkatsuHakai Shovel"
+filename = "[1.19.2][forge43.1.1]mod_DigAllSMP_v2.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df2b1b48795fd58062a2f5186eb2bc3a9cce837f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3942968
+project-id = 419841

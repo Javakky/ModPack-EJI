@@ -1,0 +1,13 @@
+name = "IkkatsuHakai Axe"
+filename = "[1.19.2][forge43.1.1]mod_CutAllSMP_v2.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42ead3183a6857e652ecf1ee4f5d5693f808952b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3942967
+project-id = 419843

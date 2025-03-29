@@ -1,0 +1,13 @@
+name = "EU Converter"
+filename = "euconverter-1.19.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68a63657699feb2a3c519b7d78c18c2be03d4562"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5310426
+project-id = 897594

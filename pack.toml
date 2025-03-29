@@ -1,0 +1,13 @@
+name = "Easy Japanese Insdustrial"
+author = "javakky"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0c4c99e92cc765505bf5f66a03bed13a5619278229803af418b0aaae6ac7f46f"
+
+[versions]
+forge = "55.0.3"
+minecraft = "1.19.2"

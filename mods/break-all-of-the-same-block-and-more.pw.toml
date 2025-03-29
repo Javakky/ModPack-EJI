@@ -1,0 +1,13 @@
+name = "IkkatsuHakai"
+filename = "[1.19.2][forge43.1.1]mod_MineAllSMP_v2.6.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "939a81a9e28ed970d0698df16fc2b52b0739150b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3942966
+project-id = 318494

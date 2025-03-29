@@ -1,0 +1,96 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "f20a294a337810fc7bfcb3b0f0c7addabc75b93a84a449f08b7127618ce05093"
+metafile = true
+
+[[files]]
+file = "mods/break-all-of-the-same-block-and-more.pw.toml"
+hash = "25381f8f32d81ed01c9119da36f014352da66bfe3e38ea08a749780b5a1d817c"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "fc002eee04583c5cc5789aeff36d8fa5df384fbe1aaeb6271c693f038ca575c7"
+metafile = true
+
+[[files]]
+file = "mods/digall.pw.toml"
+hash = "a24898dc5f8c35e3ac266093d1127932ad1c4a2419e147aefe4d6453c1de90ff"
+metafile = true
+
+[[files]]
+file = "mods/eu-converter.pw.toml"
+hash = "4703c86c33b15e53ecfa4e819736a2a3b30ab694e14dffbcf9e9cb05264986da"
+metafile = true
+
+[[files]]
+file = "mods/ic2-classic.pw.toml"
+hash = "3fe8e18e9cfd7de92daa13f96f78927981df1ced569cff7b994a0c85967784f8"
+metafile = true
+
+[[files]]
+file = "mods/ikkatsuhakai-axe.pw.toml"
+hash = "eb440e941db17e5a4ab1447c6e41c77b18253ce4ef099a8cc800842f8a20ed19"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "86d4d0c1e7235f6d7adfcefb49c138bb14c1e1d28b3f22252075806d970e2d06"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "7e955e5b2db06a34be5829c9b5dc78dcbb40ae3be36d40fd212e9c0fd90afd8e"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "4a3bba5ee25abee71e11f41208f0ae7f09d48dbd43099b52ef1750532d0247fe"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0a6a0129d354bbf733d4adb7efd39c6646f790827d76ae3a2e25cc855bdecd4d"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "5ceee998d53af5f7bc5b20b48a695d4e2f19fa60af701376f3e34f6a271c62d9"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "36b3da73d8ce3dfaa5c9a5dae7db10df3ee25f0d32cff6e1cde5407c5e6f271f"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "cce83680c833e2deec6be88c37516d0e4fabd064841d4ca7a517bbd90b7b8a73"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "218ffa5a01d990c7c47440a83959caa3290a0ca20834deeff5c3d7feb78d062e"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "e3130b1d0cc8bdcbdc5ddd4de720ec0c6d97996d90fdb5e3a77c17571709cede"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "668f38c3cd01dbc645d212e46057b64c957825c8f9d5629f58f9740e456a824f"
+metafile = true
