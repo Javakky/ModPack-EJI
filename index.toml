@@ -2,19 +2,28 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/cutallsmp-common.toml"
-hash = "68f9f34347b4dad7c8dfa0c1ef0e269b4d8b7755ebfb0771bec369f97976ff0c"
+hash = "8f7291663cb2fb63c928103d3b9c45677c13fce99f8653991efad1551f1a1407"
 
 [[files]]
 file = "config/digallsmp-common.toml"
-hash = "2bf3f0a5a377fcd81e2c5af4592c2e98e6af5a02d5432fb9c29aaffcbded1806"
+hash = "32abd0eb9877073a6370f4b6ebd205a1d6271acc3d7eb3ce7af5c8c532d53cf2"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "58dc839952fcb24eed0d467298ec2f1efc304f6e7928ee274ca3719e9b18a4e9"
 
 [[files]]
 file = "config/mineallsmp-common.toml"
-hash = "bf0f31ffb115c4c95be8eed5e73ec91c4936fb1f7418eb727161444eb2c88840"
+hash = "a75a888be8e809263cc8e70f84b0277a7db740db22caa4009ecb3cc6c670895f"
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "f20a294a337810fc7bfcb3b0f0c7addabc75b93a84a449f08b7127618ce05093"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
@@ -53,6 +62,11 @@ hash = "86d4d0c1e7235f6d7adfcefb49c138bb14c1e1d28b3f22252075806d970e2d06"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "5810a5e8dbec47b104fd7abe081fb29b0fa853b3754661deab057971f264b443"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
 metafile = true
@@ -60,6 +74,16 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "7e955e5b2db06a34be5829c9b5dc78dcbb40ae3be36d40fd212e9c0fd90afd8e"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "29c31da4c4c49167bf6ba815da5c2760d14c6f62e05a90bbbb44e54962a30466"
 metafile = true
 
 [[files]]
@@ -106,7 +130,3 @@ metafile = true
 file = "mods/titanium.pw.toml"
 hash = "668f38c3cd01dbc645d212e46057b64c957825c8f9d5629f58f9740e456a824f"
 metafile = true
-
-[[files]]
-file = "out/easy-japanese-insdustrial-0.0.1.zip"
-hash = "717eff21bf13d6c1446b8f403602dd6b0e56abcf19d5e8e74e286dabf3373817"
