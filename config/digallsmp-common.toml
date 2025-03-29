@@ -1,0 +1,25 @@
+
+#net.minecraft.scalar.digall.mod_DigAllSMP
+[configuration]
+	#String: "iron_shovel, wooden_shovel, stone_shovel, diamond_shovel, golden_shovel,netherite_shovel"
+	itemIds = "iron_shovel, wooden_shovel, stone_shovel, diamond_shovel, golden_shovel,netherite_shovel, ic2:tool_shovel_bronze, ic2:tool_shovel_aluminium, ic2:drill, ic2:diamond_drill, ic2:advanced_drill, mekanismtools:wood_paxel, mekanismtools:stone_paxel, mekanismtools:iron_paxel, mekanismtools:diamond_paxel, mekanismtools:gold_paxel, mekanismtools:netherite_paxel, mekanismtools:bronze_paxel, mekanismtools:lapis_lazuli_paxel, mekanismtools:lapis_lazuli_shovel, mekanismtools:osmium_paxel, mekanismtools:osmium_shovel, mekanismtools:refined_glowstone_paxel, mekanismtools:refined_glowstone_shovel, mekanismtools:refined_obsidian_paxel, mekanismtools:refined_obsidian_shovel, mekanismtools:steel_paxel, mekanismtools:steel_shovel"
+	#String: "grass_block, dirt, sand, gravel, farmland, snow_layer, clay, soul_sand, mycelium, coarse_dirt,soul_soil"
+	blockIds = "grass_block, dirt, sand, gravel, farmland, snow_layer, clay, soul_sand, mycelium, coarse_dirt,soul_soil"
+	#String: "KEY_G"
+	Key = "KEY_V"
+	#Integer: 11
+	Limiter = 3
+	#Integer: 0
+	#0:not decrease durability 1,2:decrease durability(1=until whole blocks 2=until break an item)
+	Durability = 0
+	#Boolean: true
+	DestroyUnder = false
+	#Boolean: true
+	StartMode = false
+	#Boolean: false
+	AutoCollect = true
+	#Boolean: false
+	DropGather = true
+	#String: "mod_digall"
+	channelName = "mod_digall"
+
